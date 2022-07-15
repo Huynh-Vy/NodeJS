@@ -11,7 +11,8 @@ Use NodeJS to implement UBER like service for freight trucks, in REST style, usi
 + MongoDB as database, Mongoose
 + GoogleAPIs, NodeMailer for email sending.
 + JsonWebToken, bcrypt.
-+ Validation with Joi.
++ Joi.
++ MVC Model
 
 ## API URL samples:
 
