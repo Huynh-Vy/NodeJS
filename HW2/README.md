@@ -10,7 +10,7 @@ Creating APIs for authenticating users and managing their notes.
 - Router
 - MVC Model
 - Joi 
-- JWT, bcrypt
+- JsonWebToken, bcrypt
 
 3. API samples:
 
