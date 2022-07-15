@@ -6,8 +6,11 @@ Creating APIs for authenticating users and managing their notes.
 2. Technologies:
 - ExpressJs
 - MongoDB
+- Mongoose
 - Router
 - MVC Model
+- Joi 
+- JWT, bcrypt
 
 3. API samples:
 
